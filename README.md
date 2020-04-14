@@ -1,2 +1,2 @@
-# assignment_softhouse
+# Programming assignment for Softhouse
 Programming Assignment for Softhouse 
