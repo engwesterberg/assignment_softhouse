@@ -1,2 +1,3 @@
 # Programming assignment for Softhouse
-Programming Assignment for Softhouse 
+
+Programming Assignment provided by Softhouse, implemented by Erik Westerberg
